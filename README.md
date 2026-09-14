@@ -53,7 +53,7 @@
 
 ---
 
-### 🧑‍💻 COMEETTOOL
+### 🧑‍💻 [COMEETTOOL](https://github.com/insongK/COMEETTOOL)
 **실시간 화상회의 · 공동 문서 · AI 회의록 협업 서비스**
 
 - Backend Developer
@@ -66,7 +66,7 @@
 
 ---
 
-### 🛡 Agentic AI Cloud Security Automation
+### 🛡 [Agentic AI Cloud Security Automation](https://github.com/S-Developer-Team-INU/INU-AGENT)
 **클라우드 보안 로그를 분석하고 대응을 지원하는 Agent 기반 보안 자동화 시스템**
 
 - LangGraph 기반 Multi-Agent 분석 구조 설계 및 구현
@@ -81,7 +81,7 @@
 
 ---
 
-### 📝 AlgoNotion
+### 📝 [AlgoNotion](https://github.com/KimnPark-Dev/AlgoNotion_Extention)
 **알고리즘 풀이 기록을 자동으로 Notion에 정리하는 Chrome Extension**
 
 - Baekjoon, SWEA, Programmers, LeetCode 지원
