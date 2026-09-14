@@ -39,6 +39,20 @@
 
 ## 🚀 Featured Projects
 
+### 🚨 [SSAIREN](https://github.com/SSAIREN)
+**실시간 통화 분석을 기반으로 보이스피싱 위험을 탐지하고 대응을 지원하는 모바일 서비스**
+
+- SSAFY X KAKAO AI Hackathon 7인 팀 **PM / Flutter Frontend**
+- 약 700명 지원자 중 **12개 본선 팀 선정**
+- 48시간 내 MVP 기획, 역할 분배, 개발 일정 및 통합 관리
+- 통화 중 오디오 분석 결과를 기반으로 위험 감지 및 대응 흐름 구현
+- 기관사칭 및 납치협박 시나리오에 따른 사용자 대응 UI 개발
+- 위험 감지 이후 보호자 알림, 위치 공유 등 후속 대응 흐름 설계
+
+`Flutter` `Dart` `FastAPI` `WebSocket` `FCM` `STT` `AI`
+
+---
+
 ### 🧑‍💻 COMEETTOOL
 **실시간 화상회의 · 공동 문서 · AI 회의록 협업 서비스**
 
